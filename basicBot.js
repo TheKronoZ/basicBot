@@ -181,7 +181,7 @@
     var basicBot = {
         version: "2.4.5",
         status: false,
-        name: "basicBot",
+        name: "OEBot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
@@ -191,7 +191,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot",
+            botName: "OEBot",
             language: "english",
             chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
             startupCap: 1, // 1-200
@@ -235,9 +235,9 @@
             etaRestriction: false,
             welcome: true,
             opLink: null,
-            rulesLink: null,
+            rulesLink: "http://i.imgur.com/zjWdLdJ.png",
             themeLink: null,
-            fbLink: null,
+            fbLink: "https://goo.gl/dpYkVk",
             youtubeLink: null,
             website: null,
             intervalMessages: [],
